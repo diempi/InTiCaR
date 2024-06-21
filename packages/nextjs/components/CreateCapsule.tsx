@@ -8,7 +8,10 @@ const CreateCapsule = () => {
   const [unlockDate, setUnlockDate] = useState('');
   const [deposit, setDeposit] = useState('');
 
-
+  useScaffoldReadContract({
+    contactName: "YourContract",
+    functionName: "createCapsule",
+  });
 
 
 
