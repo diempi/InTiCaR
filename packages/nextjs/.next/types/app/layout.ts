@@ -1,4 +1,4 @@
-// File: /Users/didiergabiam-mair/Projets/Blockchain/Dev/Hackathon/ETHGLOBAL/Starkhack/Inticar-local/packages/nextjs/app/layout.tsx
+// File: /Users/didiergabiam/Projects/Blockchain/Hackathon/Starkhack/Inticar-local/packages/nextjs/app/layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
