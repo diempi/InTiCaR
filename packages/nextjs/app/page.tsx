@@ -16,7 +16,9 @@ const Home: NextPage = () => {
         <div className="px-5">
           <h1 className="text-center">
             <span className="block text-2xl mb-2">Welcome to</span>
-            <span className="block text-4xl font-bold">InTiCaR - Interactice Time Caspule</span>
+            <span className="block text-4xl font-bold">
+              InTiCaR - Interactice Time Caspule
+            </span>
           </h1>
           <div className="flex justify-center items-center space-x-2">
             <p className="my-2 font-medium">Connected Address:</p>
@@ -26,8 +28,6 @@ const Home: NextPage = () => {
             <CreateCapsule />
           </div>
         </div>
-
-
       </div>
     </>
   );

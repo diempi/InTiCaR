@@ -1,1 +1,5 @@
-{"c":["app/layout","webpack"],"r":[],"m":["(app-pages-browser)/./components/scaffold-stark/FaucetButton.tsx"]}
+{
+  "c": ["app/layout", "webpack"],
+  "r": [],
+  "m": ["(app-pages-browser)/./components/scaffold-stark/FaucetButton.tsx"]
+}

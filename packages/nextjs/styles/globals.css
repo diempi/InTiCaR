@@ -31,7 +31,7 @@ p {
   @apply shadow-none;
 }
 
-#createCapsulecontainer div{
+#createCapsulecontainer div {
   margin-top: 2em;
   padding: 0.5em 0;
 }
