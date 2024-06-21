@@ -22,7 +22,7 @@ const Home: NextPage = () => {
             <p className="my-2 font-medium">Connected Address:</p>
             <Address address={connectedAddress.address as AddressType} />
           </div>
-          <div>
+          <div id="createCapsulecontainer">
             <CreateCapsule />
           </div>
         </div>

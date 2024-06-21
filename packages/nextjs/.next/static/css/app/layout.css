@@ -3662,6 +3662,11 @@ p {
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
 
+#createCapsulecontainer div{
+  margin-top: 2em;
+  padding: 0.5em 0;
+}
+
 .placeholder\:text-accent\/50::-moz-placeholder {
   color: var(--fallback-a,oklch(var(--a)/0.5));
 }
@@ -3943,4 +3948,3 @@ p {
     font-size: 1.125em;
   }
 }
-
